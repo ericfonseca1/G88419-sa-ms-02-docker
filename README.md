@@ -8,6 +8,7 @@ Se não tiver o docker instalado, acesse o site do [Labs Play Docker](https://la
 
 Faça o clone do projeto:
 
+```bash
+git clone https://github.com/massilva/G88419-sa-ms-02-docker.git
 ```
-git clone {{ ENDEREÇO }}
-```
+
