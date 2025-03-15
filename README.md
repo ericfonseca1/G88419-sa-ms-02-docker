@@ -12,3 +12,12 @@ Faça o clone do projeto:
 git clone https://github.com/massilva/G88419-sa-ms-02-docker.git
 ```
 
+## Usando comandos
+
+Utilizamos o comando : docker build -t otrs latest.
+
+## Acessando imagens
+
+comando run -d --name'online' -p 80:80 --restart=always otrs:lastet
+
+imagem retornou.
